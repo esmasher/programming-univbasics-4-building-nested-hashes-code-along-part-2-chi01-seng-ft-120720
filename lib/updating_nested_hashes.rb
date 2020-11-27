@@ -53,6 +53,7 @@ def add_characters
    }
 epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy [:capulet] [:heroine] [:status] = "dead"
+epic_tragedy[:additional_characters] = []
    # Write code below that does the following programmatically:
    #
    # - Add an additional :additional_characters key to epic_tragedy and assign it an array as its value
